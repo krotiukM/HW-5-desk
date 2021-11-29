@@ -590,9 +590,10 @@ body {
 .portfolio_section-title {
   display: flex;
   flex-wrap: wrap;
-  margin-right: -30px;
+  /*margin-right: -30px;
   margin-bottom: -30px;
-  padding-top: 50px;
+  margin-top: 50px;*/
+  margin: 50px -30px -30px 0;
 }
 
 .portfolio_item {
